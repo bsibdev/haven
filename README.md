@@ -1,0 +1,1 @@
+A webapp for finding the best spot on Earth.
